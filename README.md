@@ -1,9 +1,9 @@
 # GLDoc_DDI
 Document-level Drug-drug Interaction Relation Extraction
 
-Requirements
-allennlp	2.7.0	
-allennlp-models	2.7.0	
+Requirements:\
+allennlp	2.7.0	\
+allennlp-models	2.7.0	\
 allennlp-optuna	0.1.6		
 gensim	3.8.0	
 nltk	3.6.7		
