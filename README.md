@@ -1,6 +1,8 @@
 # GLDoc_DDI
 Document-level Drug-drug Interaction Relation Extraction
 
+
+
 Requirements:\
 allennlp	2.7.0	\
 allennlp-models	2.7.0	\
@@ -26,3 +28,6 @@ transformers	4.5.1	\
 xlrd	2.0.1	\
 
 If you need a pytorch version of Biobert, please contact 1018216006@tju.edu.cn.
+
+# Acknowledgement
+The UNET network in this paper refers to the work of Zhang et al. [Zhang N, Chen X, Xie X, et al. Document-level relation extraction as semantic segmentation[J]. arXiv preprint arXiv:2106.03618, 2021.]
