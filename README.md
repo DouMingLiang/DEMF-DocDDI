@@ -7,7 +7,7 @@ Requirements:\
 allennlp	2.7.0	\
 allennlp-models	2.7.0	\
 allennlp-optuna	0.1.6	\	
-gensim	3.8.0	\
+gensim 3.8.0	\
 nltk	3.6.7\		
 numpy	1.19.5	\
 numpy-base	1.19.2	\
