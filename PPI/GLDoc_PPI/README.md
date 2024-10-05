@@ -1,1 +1,1 @@
-By using gldoc_ DDI implements PPI relation extraction.
+By using DEMF-DocDDI implements PPI relation extraction.
