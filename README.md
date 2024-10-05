@@ -1,4 +1,4 @@
-# GLDoc_DDI
+# DEMF-DocDDI
 Document-level Drug-drug Interaction Relation Extraction
 
 Requirements:  
